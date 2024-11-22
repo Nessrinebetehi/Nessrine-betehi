@@ -1,4 +1,4 @@
-<img align="center"  width="1000" height="300" src="https://i.pinimg.com/originals/01/d7/17/01d7176e77aebf3b461562899efcf47f.gif" >
+
 <h1 align="center">Welcom to my kingdom 👸</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952l6cosw35u27bmae7ikiia4mkejoiubwuqdt7sciq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
